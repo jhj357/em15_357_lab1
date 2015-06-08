@@ -1,0 +1,31 @@
+19:28:19 INFO  : Processing command line option -hwspec C:/Users/Administrator/Desktop/lab1/lab1.sdk/system_wrapper.hdf.
+19:28:27 WARN  : Unable to obtain port 2450 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+19:28:28 INFO  : Launching XSDB server: xsdb.bat -s E:/vivado/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2457
+21:12:28 INFO  : Processing command line option -hwspec C:/Users/Administrator/Desktop/lab1/lab1.sdk/system_wrapper.hdf.
+21:12:31 WARN  : Unable to obtain port 2450 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+21:12:32 INFO  : Launching XSDB server: xsdb.bat -s E:/vivado/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2457
+21:12:32 INFO  : Checking for hwspec changes in the project system_wrapper_hw_platform_0.
+21:12:32 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1427721121327,  Project:1427714838273
+21:12:32 INFO  : The hardware specification for project 'system_wrapper_hw_platform_0' is different from C:/Users/Administrator/Desktop/lab1/lab1.sdk/system_wrapper.hdf.
+21:12:32 INFO  : Copied contents of C:/Users/Administrator/Desktop/lab1/lab1.sdk/system_wrapper.hdf into \system_wrapper_hw_platform_0\system.hdf.
+21:13:20 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+21:13:21 INFO  : 
+21:13:52 INFO  : Updating hardware inferred compiler options for mem_test.
+21:13:52 INFO  : Clearing existing target manager status.
+21:15:18 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+21:36:26 INFO  : Processing command line option -hwspec C:/Users/Administrator/Desktop/lab1/lab1.sdk/system_wrapper.hdf.
+21:36:28 WARN  : Unable to obtain port 2450 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+21:36:29 INFO  : Launching XSDB server: xsdb.bat -s E:/vivado/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2457
+21:36:30 INFO  : Checking for hwspec changes in the project system_wrapper_hw_platform_0.
+21:36:47 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1427722561094,  Project:1427721121327
+21:36:47 INFO  : The hardware specification for project 'system_wrapper_hw_platform_0' is different from C:/Users/Administrator/Desktop/lab1/lab1.sdk/system_wrapper.hdf.
+21:36:48 INFO  : Copied contents of C:/Users/Administrator/Desktop/lab1/lab1.sdk/system_wrapper.hdf into \system_wrapper_hw_platform_0\system.hdf.
+21:36:49 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+21:37:34 INFO  : 
+21:37:35 INFO  : Updating hardware inferred compiler options for mem_test.
+21:37:35 INFO  : Clearing existing target manager status.
+21:38:11 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+09:55:08 INFO  : Processing command line option -hwspec C:/Users/Administrator/Desktop/lab1/lab1.sdk/system_wrapper.hdf.
+09:55:10 WARN  : Unable to obtain port 2450 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+09:55:11 INFO  : Launching XSDB server: xsdb.bat -s E:/vivado/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2457
+09:55:11 INFO  : Checking for hwspec changes in the project system_wrapper_hw_platform_0.
