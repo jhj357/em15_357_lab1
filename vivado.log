@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Fri Jun 26 20:21:48 2015
+# Process ID: 31336
+# Log file: C:/Users/Administrator/Desktop/新建文件夹/em15_357_lab1/vivado.log
+# Journal file: C:/Users/Administrator/Desktop/新建文件夹/em15_357_lab1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Administrator/Desktop/新建文件夹/em15_357_lab1/lab1.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/Administrator/Desktop/lab1' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/vivado/Vivado/2014.4/data/ip'.
+open_project: Time (s): cpu = 00:00:37 ; elapsed = 00:00:44 . Memory (MB): peak = 662.875 ; gain = 92.004
+open_bINFO: [Common 17-206] Exiting Vivado at Fri Jun 26 20:23:12 2015...
+b1.srcs/sources_1/bd/system/system.bd}
+Adding component instance block -- xilinx.com:ip:processing_system7:5.5 - processing_system7_0
+Successfully read diagram <system> from BD file <C:/Users/Administrator/Desktop/新建文件夹/em15_357_lab1/lab1.srcs/sources_1/bd/system/system.bd>
+open_bd_design: Time (s): cpu = 00:00:10 ; elapsed = 00:00:10 . Memory (MB): peak = 662.875 ; gain = 0.000
+launch_sdk -workspace C:/Users/Administrator/Desktop/新建文件夹/em15_357_lab1/lab1.sdk -hwspec C:/Users/Administrator/Desktop/新建文件夹/em15_357_lab1/lab1.sdk/system_wrapper.hdf
+INFO: [Vivado 12-393] Launching SDK...
+INFO: [Vivado 12-417] Running xsdk -workspace C:/Users/Administrator/Desktop/新建文件夹/em15_357_lab1/lab1.sdk -hwspec C:/Users/Administrator/Desktop/新建文件夹/em15_357_lab1/lab1.sdk/system_wrapper.hdf
+ERROR: [Common 17-70] Application Exception: Not found in path: xsdk
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Jun 26 20:39:00 2015...
